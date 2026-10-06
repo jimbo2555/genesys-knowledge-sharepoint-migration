@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+sharepoint_docs/
+sharepoint_docs_v2/
+*.docx
+migration_report.csv
